@@ -1,2 +1,2 @@
 # RecyclerView
-![Screenshot](notes.png)
+
